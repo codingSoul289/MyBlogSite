@@ -158,6 +158,7 @@ body{
 }
 .main-page{
 	cursor:pointer;
+	display: flex;
 	margin: 5px 5px;
 }
 .main-page:hover{
